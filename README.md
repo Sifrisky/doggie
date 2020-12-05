@@ -2,6 +2,7 @@
 
 Building with pure HTML y CSS.
 
+![](docs/doggie.png)
 I hope you like!
 
 Mira **Deployment** para conocer como desplegar el proyecto.
