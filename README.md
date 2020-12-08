@@ -8,4 +8,4 @@ I hope you like!
 Mira **Deployment** para conocer como desplegar el proyecto.
 ( https://sifrisky.github.io/doggie/)
 
-⌨️ con ❤️ por [Sifrisky](https://github.com/Sifrisky) 😊
+Made ⌨️ with ❤️ by [Sifrisky](https://github.com/Sifrisky) 😊
